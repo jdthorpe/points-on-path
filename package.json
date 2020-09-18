@@ -30,6 +30,6 @@
     },
     "dependencies": {
         "path-data-parser": "https://github.com/jdthorpe/path-data-parser",
-        "points-on-curve": "0.2.0"
+        "points-on-curve": "https://github.com/jdthorpe/bezier-points"
     }
 }
