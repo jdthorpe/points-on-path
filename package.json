@@ -29,7 +29,7 @@
         "typescript": "^3.8.3"
     },
     "dependencies": {
-        "path-data-parser": "0.1.0",
+        "path-data-parser": "https://github.com/jdthorpe/path-data-parser",
         "points-on-curve": "0.2.0"
     }
 }
