@@ -2,7 +2,6 @@
     "name": "points-on-path",
     "version": "0.2.1",
     "description": "Estimate points on a SVG path",
-    "type": "module",
     "main": "lib/index.js",
     "module": "lib/index.js",
     "types": "lib/index.d.ts",
